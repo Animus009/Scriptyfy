@@ -1,0 +1,6 @@
+{
+  "name": "Audio Transcriber and SRT Generator",
+  "description": "Upload audio files to transcribe speech in any language, edit segments side-by-side with an audio player, and download SRT files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
